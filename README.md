@@ -1,4 +1,4 @@
-## Olá!! Me chamo João Lucas e sou estudante de Análise e Desenvovimento de Sistemas na CESAR School pelo programa do embarque digital. 
+## Olá!! Me chamo João Lucas e sou um estudante dedicado, proativo e apaixonado por tecnologia, atualmente estou cursando Análise e Desenvolvimento de Sistemas na CESAR School e participo do programa Embarque Digital do Porto Digital no Recife. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
