@@ -6,7 +6,7 @@
    <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Joao-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="Joao-MYSQL" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F303251%2Fmysql-logo&psig=AOvVaw0-ks0R4qjxFRWNLEu1tSW2&ust=1719852184764000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCkz-big4cDFQAAAAAdAAAAABAE)">
 </div>
   
   ##
