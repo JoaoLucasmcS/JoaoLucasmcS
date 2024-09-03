@@ -1,18 +1,10 @@
-## Olá!! Me chamo João Lucas e sou um estudante dedicado, proativo e apaixonado por tecnologia, atualmente estou cursando Análise e Desenvolvimento de Sistemas na CESAR School e participo do programa Embarque Digital do Porto Digital no Recife. 
+🎓 Estudante de Análise e Desenvolvimento de Sistemas | 🎯 Aspirante a Analista de Dados | 📊 Estagiário em Análise de Dados e Desenvolvimento na Moura Baterias
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Joao-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Joao-MYSQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/joaolucasmcsilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:joaolucasmcs04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-</div>
+🔍 Apaixonado por transformar dados em insights valiosos e soluções práticas. Atualmente, estou focado em desenvolver habilidades avançadas em Excel, SQL, Python e Power BI, além de aprimorar minhas capacidades em visualização e interpretação de dados.
+
+🚀 No meu repositório, você encontrará projetos que refletem meu aprendizado e evolução na área de análise de dados, incluindo dashboards interativos no Power BI e scripts em SQL para manipulação de dados.
+
+📚 Também estou explorando conceitos de programação orientada a objetos e aprofundando meus conhecimentos em JavaScript, sempre buscando entender a teoria e aplicá-la na prática com exercícios e exemplos reais.
+
+🌱 Aberto a novas oportunidades de aprendizado e colaboração em projetos de tecnologia e análise de dados.
+
