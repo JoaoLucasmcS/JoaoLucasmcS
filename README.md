@@ -1,7 +1,6 @@
 # Olá, Sou João Marcolino 👋
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas** | 🎯 **Futuro Engenheiro de Dados** | 📊 **Estagiário em Análise de Dados no Grupo Moura**  
-💻 **Aluno da Cesar School** | 🌍 **Residente no Porto Digital**
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas** | 🎯 **Futuro Engenheiro de Dados** | 📊 **Estagiário em Análise de Dados no Grupo Moura** | 💻 **Aluno da Cesar School** | 🌍 **Residente no Porto Digital**
 
 🔍 Apaixonado por transformar dados em insights valiosos e soluções práticas. Atualmente, estou focado em desenvolver habilidades avançadas em **Excel**, **SQL**, **Python** e **Power BI**, além de aprimorar minhas capacidades em visualização e interpretação de dados. Tenho explorado também o uso de ferramentas como **Databricks**, ampliando minha visão sobre o universo de engenharia de dados.
 
