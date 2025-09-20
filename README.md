@@ -7,7 +7,6 @@
     <p>💼 &nbsp;Atualmente trabalho com automações de processos e integrações entre sistemas usando Python.</p>
     <p>🎓 &nbsp;Atualmente curso <b>Análise e Desenvolvimento de Sistemas</b> na <b>CESAR School</b>.</p>
     <p>🚀 &nbsp;Estou me aprofundando em <b>Desenvolvimento de Software</b>, com foco em <b>Java</b>, <b>Spring</b> e <b>Angular</b>.</p>
-    <p>🔎 &nbsp;Tenho curiosidade em explorar <b>boas práticas de arquitetura</b> e como entregar soluções que realmente façam diferença.</p>
 </div>
 
 ---    
