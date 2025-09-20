@@ -1,9 +1,23 @@
-# Olá, Sou João Marcolino 👋
+# 👋 Olá, eu sou João Marcolino  
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas** | 🎯 **Futuro Engenheiro de Dados** | 📊 **Estagiário em Análise de Dados no Grupo Moura** | 💻 **Aluno da Cesar School** | 🌍 **Residente no Porto Digital**
+💻 Desenvolvedor em formação, explorando principalmente **Java com Spring Boot** para backend e também com experiência em **Python** para automação de processos.  
+📊 Tenho atuado em projetos que envolvem **automação de tarefas no setor jurídico**, integração de dados e uso intensivo de **Excel** para controle e análise.  
+📚 Sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.  
 
-🔍 Apaixonado por transformar dados em insights valiosos e soluções práticas. Atualmente, estou focado em desenvolver habilidades avançadas em **Excel**, **SQL**, **Python** e **Power BI**, além de aprimorar minhas capacidades em visualização e interpretação de dados. Tenho explorado também o uso de ferramentas como **Databricks**, ampliando minha visão sobre o universo de engenharia de dados.
+---
 
-🚀 No meu repositório, você encontrará projetos que refletem meu aprendizado e evolução na área de análise de dados, incluindo dashboards interativos no Power BI. Além disso, encontrará meus projetos da faculdade, onde aplico todo meu conhecimento de desenvolvimento de software.
+## 🚀 Tecnologias e Ferramentas
+- **Linguagens:** Java, Python, SQL  
+- **Frameworks:** Spring Boot  
+- **Ferramentas:** Git/GitHub, Maven, Excel avançado, PyAutoGUI, Pandas  
+- **Banco de dados:** MySQL / PostgreSQL  
 
-🌱 Aberto a novas oportunidades de aprendizado e colaboração em projetos de tecnologia e ciência de dados. Sempre em busca de novos desafios para crescer e contribuir no campo da ciência de dados e inovação.
+---
+
+## 🌐 Conecte-se comigo
+- [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/joaolucasmcsilva/))  
+- 📧 Email:joaolucasmcs04@gmail.com
+
+---
+
+⭐ Sempre aberto a trocar conhecimento, aprender mais e colaborar em projetos open source!
