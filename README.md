@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;Sobre Mim
 
 <div>
-    <img alt="Cartoon" src="https://i.pinimg.com/736x/6e/83/c5/6e83c5c64213db019584ed5d86089e6d.jpg" align="right" width="2%" height="auto"/>
+    <img alt="Cartoon" src="https://i.pinimg.com/736x/6e/83/c5/6e83c5c64213db019584ed5d86089e6d.jpg" align="right" width="15%" height="auto"/>
     <p>💼 &nbsp;Atualmente trabalho com automações de processos e integrações entre sistemas usando Python(Pandas, pywin32, PyAutoGUI, SAPGUI, etc...)</p>
     <p>🎓 &nbsp;Atualmente curso <b>Análise e Desenvolvimento de Sistemas</b> na <b>CESAR School</b>.</p>
     <p>🚀 &nbsp;Estou me aprofundando em <b>Desenvolvimento de Software</b>, com foco em <b>Java</b>, <b>Spring</b> e <b>Angular</b>.</p>
