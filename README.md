@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;Sobre Mim
 
 <div>
-    <iframe src="https://assets.pinterest.com/ext/embed.html?id=22447698137569026" height="445" width="345" frameborder="0" scrolling="no" ></iframe>
+    <img src="https://assets.pinterest.com/ext/embed.html?id=22447698137569026" height="445" width="345" frameborder="0" scrolling="no" ></img>
     <p>💡 &nbsp;Sou apaixonado por como a tecnologia e a criatividade podem resolver problemas reais.</p>
     <p>🎓 &nbsp;Atualmente curso <b>Análise e Desenvolvimento de Sistemas</b> na <b>CESAR School</b>.</p>
     <p>🚀 &nbsp;Estou me aprofundando em <b>Desenvolvimento de Software</b>, com foco em <b>Java</b>, <b>Spring</b> e <b>AWS</b>.</p>
