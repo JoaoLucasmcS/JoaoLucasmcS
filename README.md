@@ -40,7 +40,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/joaolucasmcsilva/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>&nbsp;
-  <a href="joaolucasmcs04@gmail.com"><img src="https://img.shields.io/badge/e--mail-D14836.svg?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+  <a href="mailto:joaolucasmcs04@gmail.com"><img src="https://img.shields.io/badge/e--mail-D14836.svg?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 </div>
 
 -----
