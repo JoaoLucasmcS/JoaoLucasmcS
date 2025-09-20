@@ -3,14 +3,14 @@
 ### 👨🏻‍💻 &nbsp;Sobre Mim
 
 <div>
-    [<img src="https://pin.it/6Obu4nHcp" height="445" width="345" frameborder="0" scrolling="no" ></img>](https://i.pinimg.com/736x/39/74/4c/39744c5cbfe9df072143c4f44d428572.jpg)
+    <img alt="Cartoon" src="https://i.pinimg.com/originals/4f/c2/0f/4fc20f4623bb673f81b11c7d3e448518.jpg" align="right" width="30%" height="auto"/>
     <p>💡 &nbsp;Sou apaixonado por como a tecnologia e a criatividade podem resolver problemas reais.</p>
     <p>🎓 &nbsp;Atualmente curso <b>Análise e Desenvolvimento de Sistemas</b> na <b>CESAR School</b>.</p>
     <p>🚀 &nbsp;Estou me aprofundando em <b>Desenvolvimento de Software</b>, com foco em <b>Java</b>, <b>Spring</b> e <b>AWS</b>.</p>
     <p>🔎 &nbsp;Tenho curiosidade em explorar <b>boas práticas de arquitetura</b> e como entregar soluções que realmente façam diferença.</p>
 </div>
 
----
+---    
 
 ### 🛠 &nbsp;Tech Stack
 
