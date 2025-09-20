@@ -1,23 +1,48 @@
-# 👋 Olá, eu sou João Marcolino  
+<h1 align="center">👋 Olá! Eu sou o João Marcolino</h1>
 
-💻 Desenvolvedor em formação, explorando principalmente **Java com Spring Boot** para backend e também com experiência em **Python** para automação de processos.  
-📊 Tenho atuado em projetos que envolvem **automação de tarefas no setor jurídico**, integração de dados e uso intensivo de **Excel** para controle e análise.  
-📚 Sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.  
+### 👨🏻‍💻 &nbsp;Sobre Mim
 
----
-
-## 🚀 Tecnologias e Ferramentas
-- **Linguagens:** Java, Python, SQL  
-- **Frameworks:** Spring Boot  
-- **Ferramentas:** Git/GitHub, Maven, Excel avançado, PyAutoGUI, Pandas  
-- **Banco de dados:** MySQL / PostgreSQL  
+<div>
+    <img alt="Cartoon" src="https://i.pinimg.com/originals/4f/c2/0f/4fc20f4623bb673f81b11c7d3e448518.jpg" align="right" width="30%" height="auto"/>
+    <p>💡 &nbsp;Sou apaixonado por como a tecnologia e a criatividade podem resolver problemas reais.</p>
+    <p>🎓 &nbsp;Atualmente curso <b>Análise e Desenvolvimento de Sistemas</b> na <b>CESAR School</b>.</p>
+    <p>🚀 &nbsp;Estou me aprofundando em <b>Desenvolvimento de Software</b>, com foco em <b>Java</b>, <b>Spring</b> e <b>AWS</b>.</p>
+    <p>🔎 &nbsp;Tenho curiosidade em explorar <b>boas práticas de arquitetura</b> e como entregar soluções que realmente façam diferença.</p>
+</div>
 
 ---
 
-## 🌐 Conecte-se comigo
-- [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/joaolucasmcsilva/))  
-- 📧 Email:joaolucasmcs04@gmail.com
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Angular](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 ---
 
-⭐ Sempre aberto a trocar conhecimento, aprender mais e colaborar em projetos open source!
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/JoaoLucasmcS">
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoaoLucasmcS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>&nbsp;
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoaoLucasmcS&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+---
+
+### 🤝🏻 &nbsp;Conecte-se Comigo
+
+<div>
+  <a href="https://www.linkedin.com/in/joaomarcolino"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>&nbsp;
+  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/e--mail-D14836.svg?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+</div>
+
+-----
+
+📌 *Last Edited on: 19/09/2025*
