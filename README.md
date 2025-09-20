@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;Sobre Mim
 
 <div>
-    <img alt="Cartoon" src="https://i.pinimg.com/originals/4f/c2/0f/4fc20f4623bb673f81b11c7d3e448518.jpg" align="right" width="30%" height="auto"/>
+    <iframe src="https://assets.pinterest.com/ext/embed.html?id=22447698137569026" height="445" width="345" frameborder="0" scrolling="no" ></iframe>
     <p>💡 &nbsp;Sou apaixonado por como a tecnologia e a criatividade podem resolver problemas reais.</p>
     <p>🎓 &nbsp;Atualmente curso <b>Análise e Desenvolvimento de Sistemas</b> na <b>CESAR School</b>.</p>
     <p>🚀 &nbsp;Estou me aprofundando em <b>Desenvolvimento de Software</b>, com foco em <b>Java</b>, <b>Spring</b> e <b>AWS</b>.</p>
