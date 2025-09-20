@@ -3,7 +3,8 @@
 ### 👨🏻‍💻 &nbsp;Sobre Mim
 
 <div>
-    <img src="https://unsplash.com/pt-br/fotografias/robo-branco-e-cinza-durante-o-dia-nKO_1QyFh9o" align="right" width="30%" height="auto"/>
+    <img src="<img width="2000" height="2000" alt="image" src="https://github.com/user-attachments/assets/24d18c22-6942-4f63-bd27-10d9037021bf" />
+" align="right" width="30%" height="auto"/>
     <p>💡 &nbsp;Sou apaixonado por como a tecnologia e a criatividade podem resolver problemas reais.</p>
     <p>🎓 &nbsp;Atualmente curso <b>Análise e Desenvolvimento de Sistemas</b> na <b>CESAR School</b>.</p>
     <p>🚀 &nbsp;Estou me aprofundando em <b>Desenvolvimento de Software</b>, com foco em <b>Java</b>, <b>Spring</b> e <b>AWS</b>.</p>
