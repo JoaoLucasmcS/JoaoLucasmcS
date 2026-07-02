@@ -5,8 +5,8 @@
 <div>
     <img alt="Cartoon" src="https://i.pinimg.com/736x/6e/83/c5/6e83c5c64213db019584ed5d86089e6d.jpg" align="right" width="15%" height="auto"/>
     <p>💼 &nbsp;Atuo no ciclo completo de desenvolvimento — do levantamento de requisitos ao deploy — construindo soluções fullstack com <b>Python (FastAPI)</b> no backend e evoluindo em <b>React/TypeScript</b> no frontend.</p>
-    <p>🎓 &nbsp;Curso <b>Análise e Desenvolvimento de Sistemas</b> na <b>CESAR School</b>, via Embarque Digital.</p>
-    <p>🏗️ &nbsp;No trabalho, integro sistemas, construo APIs e desenho soluções que rodam na <b>Azure</b> — com foco crescente em arquitetura e decisões técnicas, não só entrega.</p>
+    <p>🎓 &nbsp;Formado em <b>Análise e Desenvolvimento de Sistemas</b> na <b>CESAR School</b>, via Embarque Digital.</p>
+    <p>🏗️ &nbsp;No trabalho, integro sistemas, construo aplicações e desenho soluções que rodam na <b>Azure</b> — com foco crescente em arquitetura e decisões técnicas, não só entrega.</p>
     <p>🔎 &nbsp;Tenho curiosidade em explorar <b>boas práticas de engenharia de software</b> e caminho pra me tornar referência técnica no time.</p>
 </div>
 
