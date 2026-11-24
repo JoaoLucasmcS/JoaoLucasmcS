@@ -32,4 +32,15 @@
 ### 🚀 &nbsp;Projetos em Destaque
 
 <p>🎵 &nbsp;<a href="https://github.com/Myllena-lins/Globo_Sonar"><b>Globo Sonar</b></a>: identifica automaticamente as músicas em arquivos de vídeo MXF, com a minutagem de cada trecho, para a Globo regularizar direitos autorais. Microsserviços em Python e C#, Next.js e Docker. <i>(Residência Porto Digital)</i></p>
-<p>🎮 &nbsp;<a href="https://github.com/JoaoLucasmcS/recall-api"><b>recall-api</b></a>: API em Python com dados de campeões, itens e runas do
+<p>🎮 &nbsp;<a href="https://github.com/JoaoLucasmcS/recall-api"><b>recall-api</b></a>: API em Python com dados de campeões, itens e runas do League of Legends.</p>
+
+---
+
+### 🤝🏻 &nbsp;Conecte-se Comigo
+
+<div>
+  <a href="https://www.linkedin.com/in/joaolucasmcsilva/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="mailto:joaolucasmcs04@gmail.com"><img src="https://img.shields.io/badge/e--mail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+-----
