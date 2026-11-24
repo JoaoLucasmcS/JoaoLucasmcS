@@ -3,7 +3,6 @@
 ### 👨🏻‍💻 &nbsp;Sobre Mim
 
 <div>
-    <img alt="Cartoon" src="https://i.pinimg.com/736x/6e/83/c5/6e83c5c64213db019584ed5d86089e6d.jpg" align="right" width="15%" height="auto"/>
     <p>💡 &nbsp;Entrei na tecnologia por curiosidade e fiquei porque descobri que gosto de resolver problemas reais.</p>
     <p>🎓 &nbsp;Formado em <b>Análise e Desenvolvimento de Sistemas</b> na <b>CESAR School</b>, via Embarque Digital.</p>
     <p>💼 &nbsp;Construo do zero sistemas escaláveis, usados por pessoas de diversas áreas: entendo o problema, desenho a solução, desenvolvo, coloco em produção e sigo sustentando. Trabalho com <b>Python (FastAPI)</b> no backend, <b>React/TypeScript</b> no frontend e <b>Azure</b> na infraestrutura.</p>
@@ -33,26 +32,4 @@
 ### 🚀 &nbsp;Projetos em Destaque
 
 <p>🎵 &nbsp;<a href="https://github.com/Myllena-lins/Globo_Sonar"><b>Globo Sonar</b></a>: identifica automaticamente as músicas em arquivos de vídeo MXF, com a minutagem de cada trecho, para a Globo regularizar direitos autorais. Microsserviços em Python e C#, Next.js e Docker. <i>(Residência Porto Digital)</i></p>
-<p>🎮 &nbsp;<a href="https://github.com/JoaoLucasmcS/recall-api"><b>recall-api</b></a>: API em Python com dados de campeões, itens e runas do League of Legends.</p>
-
----
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/JoaoLucasmcS">
-  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoaoLucasmcS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>&nbsp;
-  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoaoLucasmcS&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
----
-
-### 🤝🏻 &nbsp;Conecte-se Comigo
-
-<div>
-  <a href="https://www.linkedin.com/in/joaolucasmcsilva/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="mailto:joaolucasmcs04@gmail.com"><img src="https://img.shields.io/badge/e--mail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
-
------
+<p>🎮 &nbsp;<a href="https://github.com/JoaoLucasmcS/recall-api"><b>recall-api</b></a>: API em Python com dados de campeões, itens e runas do
